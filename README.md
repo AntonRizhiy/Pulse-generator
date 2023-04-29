@@ -1,5 +1,5 @@
 # Pulse-generator
-Pulse generator with programmable parameters based on PsOC 4.
+Pulse generator with programmable parameters based on PSoC 4.
 
 Over the past decade, a new direction in the design of electronic equipment has rapidly developed, namely the design of equipment in the form of systems on a chip under the PSoC (Programmable System on Chip) trademark, which contains basic components of digital microcontrollers and sufficiently efficient sets of reconfigurable digital and analog blocks.
 	
